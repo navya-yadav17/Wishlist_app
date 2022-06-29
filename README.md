@@ -1,4 +1,4 @@
-﻿# Wishlist_app
+﻿# WishSlate
 This etherum based web app allows user to create a awishlist and then remove the tasks as and when they get completed.
 
 App has not been fully constructed yet , sorry for the incovenience :)
